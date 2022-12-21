@@ -66,3 +66,4 @@ git push = envoyer sont commit sur le repos distant
 ![alt text](partie3_workflow.png)
 
 Cette situation n'ets pas souhaitable car on as un commit hors des branche qui ne peut pas etre merger sur une branche
+Pour resoudre cela on peut soit creer une nouvelle branche, soit supprimez le commit hos branche 
