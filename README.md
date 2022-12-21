@@ -1,7 +1,7 @@
 # memo-git
 
 
-Commande apprise:
+# Commande apprise:
 
 git checkout = positionnez le HEAD sur une branche specifique
 
@@ -38,3 +38,23 @@ git branch = Creer une nouvelle branche
 git checkout -b = creer une branche et y pointer le HEAD
 
 	exemple : git checkout -b update
+	
+git status = voir les fichier modifiez qui doivent etre mis dans la stagging zone
+
+	exemple : git status
+	
+git add = ajoutez dans fichier dans la stagging zone
+
+	exemple : git add index.html
+
+git commit = prendre un instantannée des modification apporté
+
+	exemple : git commit -m "Header reglé"
+
+git push = envoyer sont commit sur le repos distant
+
+	exemple : git push
+
+
+# 1.6 — Création de votre carte de visite sur Github
+![alt text](image_2022-12-21_151846360.png)
