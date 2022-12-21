@@ -58,3 +58,9 @@ git push = envoyer sont commit sur le repos distant
 
 # 1.6 — Création de votre carte de visite sur Github
 ![alt text](image_2022-12-21_151846360.png)
+
+# Workflow
+
+-Partie 3
+
+![alt text](partie3_workflow.png)
