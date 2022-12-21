@@ -24,6 +24,7 @@ git checkout HEAD^ = revenir au commit precedent
 git checkout HEAD~2 = revenir 2 commit en arriere
 
 git merge =  faire rejoindre les commit de la branche actuelle vers une branche cible
+
 	exemple : git merge MAIN
 
 git branch -d : supprimer une branche
