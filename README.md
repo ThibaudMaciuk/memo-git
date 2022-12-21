@@ -30,3 +30,11 @@ git merge =  faire rejoindre les commit de la branche actuelle vers une branche 
 git branch -d : supprimer une branche
 
 	exemple : git branch -d Feature
+
+git branch = Creer une nouvelle branche
+
+	exemple : git branch update
+
+git checkout -b = creer une branche et y pointer le HEAD
+
+	exemple : git checkout -b update
