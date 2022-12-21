@@ -4,12 +4,15 @@
 Commande apprise:
 
 git checkout = positionnez le HEAD sur une branche specifique
+
 	exemple : git checkout MAIN
 
 git revert = annulez les modification d'une branche distante
+
 	exemple : git revert MAIN
 
 git reset = annulez les modification d'une branche locale
+
 	exemple : git reset HEAD~1
 
 git rebase = permet de rejoindre tout les commit d'une branche vers la fin de la branche cible
@@ -24,4 +27,5 @@ git merge =  faire rejoindre les commit de la branche actuelle vers une branche 
 	exemple : git merge MAIN
 
 git branch -d : supprimer une branche
+
 	exemple : git branch -d Feature
