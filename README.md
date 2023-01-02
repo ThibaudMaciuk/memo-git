@@ -74,6 +74,12 @@ Pour resoudre cela on peut soit creer une nouvelle branche, soit supprimez le co
 
 
 
--PARTIE 1.7
+# PARTIE 1.7
 
 ![alt text](git1.7.png)
+
+# PARTIE 1.8
+
+conflit git:
+	Un conflit git c'est quand deux changement su run meme fichier au meme endroit ont etait fait, cela creer un conflit.
+	Pour le regler il faut manuellement re-agencer les changement dans le fichier afin de gerer ce conflit
