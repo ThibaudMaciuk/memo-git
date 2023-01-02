@@ -71,3 +71,9 @@ Pour resoudre cela on peut soit creer une nouvelle branche, soit supprimez le co
 -FIN
 ![alt text](workflow_final.png)
 
+
+
+
+-PARTIE 1.7
+
+![alt text](git1.7.png)
