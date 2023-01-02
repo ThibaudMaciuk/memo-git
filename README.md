@@ -83,3 +83,11 @@ Pour resoudre cela on peut soit creer une nouvelle branche, soit supprimez le co
 conflit git:
 	Un conflit git c'est quand deux changement su run meme fichier au meme endroit ont etait fait, cela creer un conflit.
 	Pour le regler il faut manuellement re-agencer les changement dans le fichier afin de gerer ce conflit
+	
+	
+# PARTIE 1.9
+
+Authentification SSH:
+	afin de setup une authentification ssh, il faut d'abord genere une cle sur notre machine, ensuite la config dans notre repos distant(github pour ma part) et chager le type de remote de notre gti local (avec git remote set-url)
+
+![alt text](git1.9.png)
