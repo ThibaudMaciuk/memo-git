@@ -91,3 +91,12 @@ Authentification SSH:
 	afin de setup une authentification ssh, il faut d'abord genere une cle sur notre machine, ensuite la config dans notre repos distant(github pour ma part) et chager le type de remote de notre gti local (avec git remote set-url)
 
 ![alt text](git1.9.png)
+
+
+# PARTIE 1.9
+
+repos : https://github.com/ThibaudMaciuk/git-cda-2023-sample
+
+	Fork = copier un repo est le maintenir automatiquement a jour comparer au repos parent.
+	Une issue : creation d'une issue afin de signaler un probleme ou un beug
+	commentaire de commit #issue :  permet de lier un commit a une issue
