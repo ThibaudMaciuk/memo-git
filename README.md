@@ -103,3 +103,6 @@ repos : https://github.com/ThibaudMaciuk/git-cda-2023-sample
 # PARTIE 2.3
 
 	.Gitignore sert a lister les fichir a ignorer lors des manipulation du repos
+# PARTIE 3.1
+
+	Stash permet de faire une sauvegarde de l'instant sans focement de faire de commit afin de pouvoir se deplacer sur une autre branche par exemple et de finir les modifications plus tard
